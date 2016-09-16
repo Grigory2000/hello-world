@@ -1,2 +1,2 @@
 # hello-world
-Example
+just trying out smth
